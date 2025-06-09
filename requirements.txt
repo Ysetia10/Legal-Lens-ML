@@ -1,3 +1,9 @@
-fastapi
-uvicorn
-python-multipart
+flask
+torch
+transformers
+peft
+PyPDF2
+langchain
+langchain-community
+huggingface_hub
+faiss-cpu
