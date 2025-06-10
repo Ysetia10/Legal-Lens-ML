@@ -1,9 +1,12 @@
-flask
 torch
 transformers
-peft
-PyPDF2
+protobuf
+sentencepiece
 langchain
 langchain-community
-huggingface_hub
 faiss-cpu
+huggingface-hub
+peft
+PyPDF2
+python-dotenv
+flask
